@@ -1,0 +1,2 @@
+# LoggingLetters
+Javascript exercise
